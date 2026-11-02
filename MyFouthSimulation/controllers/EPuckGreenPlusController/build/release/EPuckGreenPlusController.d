@@ -5,6 +5,9 @@ build/release/EPuckGreenPlusController.o: EPuckGreenPlusController.cpp \
  C:/Program\ Files/Webots/include/controller/c/webots/types.h \
  C:\Program\ Files\Webots/include/controller/cpp/webots/Display.hpp \
  C:\Program\ Files\Webots/include/controller/cpp/webots/ImageRef.hpp \
+ C:\Program\ Files\Webots/include/controller/cpp/webots/Compass.hpp \
+ C:\Program\ Files\Webots/include/controller/cpp/webots/Lidar.hpp \
+ C:/Program\ Files/Webots/include/controller/c/webots/lidar_point.h \
  ../EPuckGreenRobotSln/EPuckGreenRobot.hpp \
  ../EPuckRobotSln/EPuckRobot.hpp \
  C:\Program\ Files\Webots/include/controller/cpp/webots/Robot.hpp \

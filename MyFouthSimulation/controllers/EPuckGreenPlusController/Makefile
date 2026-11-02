@@ -46,7 +46,7 @@ CXX_SOURCES = EPuckGreenPlusController.cpp EPuckGreenPlusRobot.cpp \
 ### ---- Compilation options ----
 ### if special compilation flags are necessary:
 ### CFLAGS = -Wno-unused-result
-CFLAGS = -std=c++17 -Wall -Werror
+CFLAGS = -std=c++20 -Wall -Werror
 ###
 ### ---- Linked libraries ----
 ### if your program needs additional libraries:
